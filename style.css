@@ -75,7 +75,8 @@ sup, .sup {
 }
 
 .circle {
-  border-radius: 500px;
+  clip-path: circle();
+  /* border-radius: 500px; */
 }
 
 header.p-section {
