@@ -74,6 +74,13 @@ sup, .sup {
   padding-left: 1rem;
 }
 
+.nav-bar-img {
+  height: 2.5vh;
+  position: relative;
+  top: -7px;
+  margin-right: 2px;
+}
+
 .circle {
   clip-path: circle();
   /* border-radius: 500px; */
